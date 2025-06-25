@@ -5,7 +5,7 @@ A simple real-time chat application built with HTML, CSS, JavaScript, WebSockets
 - Frontend: HTML, CSS, JavaScript
 - Backend: Node.js, Express.js
 - Real-time Communication: Socket.IO
-- Database: LokiJS (in-memory JSON database)
+- Database: LokiJS
 
 ## 🚀 Features
 - Real-time messaging using WebSockets
